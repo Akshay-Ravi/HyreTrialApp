@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272769856772",
+    "firebase_url": "https://hyretrailapp.firebaseio.com",
+    "project_id": "hyretrailapp",
+    "storage_bucket": "hyretrailapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272769856772:android:be97cd32682413589f0c51",
+        "android_client_info": {
+          "package_name": "com.example.hyretrialapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "272769856772-236mgs55o46vop8dsocuo85lo9n49pon.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hyretrialapp",
+            "certificate_hash": "98835007a63a868a364034d6635c73796d1a8445"
+          }
+        },
+        {
+          "client_id": "272769856772-ksq0mrsue0ottk0eqq574not4k55n23b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsoUK9CNl5enk4F0PdsU7FI4HwgS-IdUo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "272769856772-ksq0mrsue0ottk0eqq574not4k55n23b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
